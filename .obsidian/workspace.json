@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1968166e45cf81ec",
+        "id": "11cfc0f5f0027733",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6d63d8c6f9d6e4",
+            "id": "f54f274451651471",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates Obsidian/Template generico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template generico"
-            }
-          },
-          {
-            "id": "d09bde659a662c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manifest"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "US01",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.70001220703125
   },
   "right": {
     "id": "f256462eadd849af",
@@ -114,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifest.md",
+                "file": "manifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifest.md",
+                "file": "manifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifest.md",
+                "file": "manifest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,13 +184,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "880f06639e927a5c",
+  "active": "f54f274451651471",
   "lastOpenFiles": [
-    "imobiliai.pub",
-    "imobiliai",
-    "Index.md",
-    "Manifest.md",
-    "Templates Obsidian/Template generico.md",
-    "Templates Obsidian"
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/User Stories/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/User Stories/sto-202610121708.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/User Stories/sto-202610121709.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/User Stories/sto-202610121704.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/User Stories/sto-202610121706.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/User Stories/sto-202610121705.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/User Stories/sto-202610121707.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/tsk-202610121702.md",
+    "02-concepts/architecture/con-202609121903.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/jrn-202610121700.md",
+    "User Journeys/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/User Stories/sto-202610121712.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/User Stories/sto-202610121711.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/User Stories/sto-202610121710.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/User Stories/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/User Stories",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit/tsk-202610121703.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT03 Schedule a Visit",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/User Stories/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/User Stories",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT02 Add Property to a Preference List",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/User Stories",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property/tsk-202610121701.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/UT01 Looking for a Property",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/User Tasks",
+    "User Journeys/UJ02 Seeker Buying or Renting Property/index.md",
+    "User Journeys/UJ02 Seeker Buying or Renting Property",
+    "02-concepts/architecture/con-202609121901.md",
+    "User Journeys/UJ01 IA Agents's Searching Properties/jrn-202609131426.md",
+    "Auxiliary/index.md",
+    "User Journeys/UJ01 IA Agents's Searching Properties/User Tasks/UT02 Interoperability and Programmatic Search via WebMCP/User Stories",
+    "User Journeys/UJ01 IA Agents's Searching Properties/User Tasks/UT02 Interoperability and Programmatic Search via WebMCP"
   ]
 }
